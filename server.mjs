@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 // 서버 포트 설정
-const port = 3000;
+const port = 80;
 const __dirname = './';
 
 // MIME 타입 설정
